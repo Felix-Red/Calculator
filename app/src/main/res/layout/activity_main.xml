@@ -14,12 +14,14 @@
         android:layout_height="wrap_content"
         android:id="@+id/e_ta"
         android:layout_margin="20dp"
+        android:inputType="number"
         android:hint="Enter a" />
     <EditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/e_tb"
         android:layout_margin="20dp"
+        android:inputType="number"
         android:hint="Enter b" />
     <LinearLayout
         android:layout_width="match_parent"
